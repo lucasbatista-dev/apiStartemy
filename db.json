@@ -24,6 +24,20 @@
           "id": 1,
           "userId": 1
         }
+      ],
+      "purchasedCourses": [
+        {
+          "title": "",
+          "description": "",
+          "author": "",
+          "category": "",
+          "image": "",
+          "price": 0,
+          "ranking": 0,
+          "numberClasses": 0,
+          "id": 1,
+          "userId": 1
+        }
       ]
     }
   ],
