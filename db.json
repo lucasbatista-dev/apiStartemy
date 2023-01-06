@@ -1,16 +1,16 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
+      "email": "startemizinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
+      "name": "Startemizinho",
       "id": 1,
       "cpf": "12345678916",
       "educationLevel": "",
       "contact": "",
       "isAdmin": true,
-      "birthDate": "",
-      "image": "",
+      "birthDate": "06/01/2023",
+      "image": "https://imageup.me/images/36b3d49e-933c-43f5-9fc0-d6c4d0a1d2f1.png",
       "favoriteCourses": [
         {
           "title": "",
@@ -20,7 +20,7 @@
           "image": "",
           "price": 0,
           "ranking": 0,
-          "numberClasses": 0,
+          "classes": [{}],
           "id": 1,
           "userId": 1
         }
@@ -34,8 +34,164 @@
           "image": "",
           "price": 0,
           "ranking": 0,
-          "numberClasses": 0,
+          "classes": [{}],
           "id": 1,
+          "userId": 1
+        }
+      ]
+    },
+    {
+      "email": "startemizinhouser@mail.com",
+      "password": "$2a$10$2e2DVfICmTE5yzsQDAZfKOfUUbkdbIM8R1Tp4LXwCraKNVOro4zR2",
+      "name": "Startemizinho",
+      "id": 1,
+      "cpf": "12345678916",
+      "educationLevel": "",
+      "contact": "",
+      "isAdmin": false,
+      "birthDate": "06/01/2023",
+      "image": "https://imageup.me/images/36b3d49e-933c-43f5-9fc0-d6c4d0a1d2f1.png",
+      "favoriteCourses": [
+        {
+          "title": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+          "description": "Aprenda tudo sobre JavaScript(ES6+), lógica de prog., orientação a objetos, crie projetos para web com Node.js e Express",
+          "author": "Matheus Battisti",
+          "category": "Javascript",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPABuslFTnf42HKEJiyYSWgYLY4_7JIjc1g&usqp=CAU",
+          "price": 22.9,
+          "ranking": 4.7,
+          "classes": [
+            {
+              "title": "Apresentação do curso",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            },
+            {
+              "title": "Introdução",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            },
+            {
+              "title": "O que é JavaScript",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            }
+          ],
+          "id": 1,
+          "userId": 1
+        },
+        {
+          "title": "React do Zero a Maestria (c/ hooks, router, API, Projetos)",
+          "description": "Crie projetos completos com React, utilizando tecnologias em alta no mercado como Firebase, Node.js, MongoDB e mais!",
+          "author": "Matheus Battisti",
+          "category": "React",
+          "image": "https://reactnative.dev/img/logo-og.png",
+          "price": 57.9,
+          "ranking": 4.9,
+          "classes": [
+            {
+              "title": "O que é React?",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            },
+            {
+              "title": "O que é Node.js?",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            },
+            {
+              "title": "O que é npm?",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            }
+          ],
+          "id": 2,
+          "userId": 1
+        }
+      ],
+      "purchasedCourses": [
+        {
+          "title": "HTML5 Completo",
+          "description": "Série Front-end do começo: Desenvolvimento Web",
+          "author": "Adriana Cerdeira",
+          "category": "HTML",
+          "image": "https://img.freepik.com/fotos-gratis/web-design-online_53876-95309.jpg?w=996&t=st=1673013866~exp=1673014466~hmac=0207e6f3b26d7bdce7246d21cccca87fe9fe4bc769142dfc74251c2f8e235304",
+          "price": 88.9,
+          "ranking": 4.9,
+          "classes": [
+            {
+              "title": "Aula 1 - Introdução",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            },
+            {
+              "title": "Como baixar os recursos do Github",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            },
+            {
+              "title": "Estrutura de um site",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            }
+          ],
+          "id": 4,
+          "userId": 1
+        },
+        {
+          "title": "Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB",
+          "description": "Todas as Tags, Atributos e Eventos do HTML5 além de CSS 3 e JavaScript na Prática com Projetos Didáticos e Incríveis.",
+          "author": "Hcode Treinamentos",
+          "category": "HTML",
+          "image": "https://img.freepik.com/fotos-gratis/conceito-da-web-de-tecnologia-avancada-de-programacao-html_53876-124133.jpg?size=626&ext=jpg&ga=GA1.1.438122730.1673013807&semt=sph",
+          "price": 57.9,
+          "ranking": 4.2,
+          "classes": [
+            {
+              "title": "O que é HTML",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            },
+            {
+              "title": "Editores de texto",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            },
+            {
+              "title": "Estrutura de um arquivo HTML",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            }
+          ],
+          "id": 5,
+          "userId": 1
+        },
+        {
+          "title": "Curso de JavaScript e TypeScript do básico ao avançado",
+          "description": "Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns",
+          "author": "Luiz Otávio Miranda",
+          "category": "Typescript",
+          "image": "encurtador.com.br/bFJP0",
+          "price": 27.9,
+          "ranking": 4.8,
+          "classes": [
+            {
+              "title": "Instalando NodeJs, VSCode e Chrome no Windows",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            },
+            {
+              "title": "Console.log - A primeira coisa que você vai ver em JS",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            },
+            {
+              "title": "Comentários de código",
+              "classTime": "1:00:20",
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+            }
+          ],
+          "id": 6,
           "userId": 1
         }
       ]
@@ -43,15 +199,227 @@
   ],
   "courses": [
     {
-      "title": "",
-      "description": "",
-      "author": "",
-      "category": "",
-      "image": "",
-      "price": 0,
-      "ranking": 0,
-      "numberClasses": 0,
+      "title": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "description": "Aprenda tudo sobre JavaScript(ES6+), lógica de prog., orientação a objetos, crie projetos para web com Node.js e Express",
+      "author": "Matheus Battisti",
+      "category": "Javascript",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPABuslFTnf42HKEJiyYSWgYLY4_7JIjc1g&usqp=CAU",
+      "price": 22.9,
+      "ranking": 4.7,
+      "classes": [
+        {
+          "title": "Apresentação do curso",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "Introdução",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "O que é JavaScript",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        }
+      ],
       "id": 1,
+      "userId": 1
+    },
+    {
+      "title": "React do Zero a Maestria (c/ hooks, router, API, Projetos)",
+      "description": "Crie projetos completos com React, utilizando tecnologias em alta no mercado como Firebase, Node.js, MongoDB e mais!",
+      "author": "Matheus Battisti",
+      "category": "React",
+      "image": "https://reactnative.dev/img/logo-og.png",
+      "price": 57.9,
+      "ranking": 4.9,
+      "classes": [
+        {
+          "title": "O que é React?",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "O que é Node.js?",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "O que é npm?",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        }
+      ],
+      "id": 2,
+      "userId": 1
+    },
+    {
+      "title": "HTML5 para quem não sabe nada de HTML5",
+      "description": "Aprenda HTML 5 de forma simples e rápida, da mesma forma que alunos de Graduação aprendem, sem precisar fazer Faculdade.",
+      "author": "Paulo Andrade",
+      "category": "HTML",
+      "image": "https://img.freepik.com/fotos-gratis/conceito-de-modelo-de-design-html-de-design_53876-120438.jpg?w=996&t=st=1673013834~exp=1673014434~hmac=560f7161eb80a6a0a1000be1372b5ab96192aa8ee49f3a9420224d30397235e0",
+      "price": 22.9,
+      "ranking": 4.7,
+      "classes": [
+        {
+          "title": "Bem-vindo ao curso e para quem este curso é dedicado",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "O que você precisa saber antes de iniciar o curso",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "Qual a função das tecnologias HTML, CSS e JavaScript nas páginas web ",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        }
+      ],
+      "id": 3,
+      "userId": 1
+    },
+    {
+      "title": "HTML5 Completo",
+      "description": "Série Front-end do começo: Desenvolvimento Web",
+      "author": "Adriana Cerdeira",
+      "category": "HTML",
+      "image": "https://img.freepik.com/fotos-gratis/web-design-online_53876-95309.jpg?w=996&t=st=1673013866~exp=1673014466~hmac=0207e6f3b26d7bdce7246d21cccca87fe9fe4bc769142dfc74251c2f8e235304",
+      "price": 88.9,
+      "ranking": 4.9,
+      "classes": [
+        {
+          "title": "Aula 1 - Introdução",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "Como baixar os recursos do Github",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "Estrutura de um site",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        }
+      ],
+      "id": 4,
+      "userId": 1
+    },
+    {
+      "title": "Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB",
+      "description": "Todas as Tags, Atributos e Eventos do HTML5 além de CSS 3 e JavaScript na Prática com Projetos Didáticos e Incríveis.",
+      "author": "Hcode Treinamentos",
+      "category": "HTML",
+      "image": "https://img.freepik.com/fotos-gratis/conceito-da-web-de-tecnologia-avancada-de-programacao-html_53876-124133.jpg?size=626&ext=jpg&ga=GA1.1.438122730.1673013807&semt=sph",
+      "price": 57.9,
+      "ranking": 4.2,
+      "classes": [
+        {
+          "title": "O que é HTML",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "Editores de texto",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "Estrutura de um arquivo HTML",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        }
+      ],
+      "id": 5,
+      "userId": 1
+    },
+    {
+      "title": "Curso de JavaScript e TypeScript do básico ao avançado",
+      "description": "Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns",
+      "author": "Luiz Otávio Miranda",
+      "category": "Typescript",
+      "image": "encurtador.com.br/bFJP0",
+      "price": 27.9,
+      "ranking": 4.8,
+      "classes": [
+        {
+          "title": "Instalando NodeJs, VSCode e Chrome no Windows",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "Console.log - A primeira coisa que você vai ver em JS",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "Comentários de código",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        }
+      ],
+      "id": 6,
+      "userId": 1
+    },
+    {
+      "title": "Entendendo TypeScript",
+      "description": "Não limite o uso de TypeScript para Angular! Aprenda essa linguagem, seus recursos, fluxos de trabalho e como usá-la!",
+      "author": "Leonardo Moura Leitao",
+      "category": "Typescript",
+      "image": "https://www.freecodecamp.org/news/content/images/2019/12/Screenshot-2019-12-04-at-06.35.08.png",
+      "price": 22.9,
+      "ranking": 4.7,
+      "classes": [
+        {
+          "title": "Introdução do Curso",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "Mensagem do Maximilian Schwarzmuller",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "O que é Typescript",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        }
+      ],
+      "id": 7,
+      "userId": 1
+    },
+    {
+      "title": "PRO FIGMA | Design de interface do Iniciante ao especialista",
+      "description": "Domine 100% as ferramentas do Figma e crie interfaces profissionais e interativas com um professor Head de Design",
+      "author": "Lucas Marte",
+      "category": "Figma",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbGB76hM1g9GKORN9d4po43V5m26ZIt38zhA&usqp=CAU",
+      "price": 22.9,
+      "ranking": 4.7,
+      "classes": [
+        {
+          "title": "Sobre o figma",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "Área de criação / Rascunhos",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        },
+        {
+          "title": "Menu Figma",
+          "classTime": "1:00:20",
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+        }
+      ],
+      "id": 8,
       "userId": 1
     }
   ]
