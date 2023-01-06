@@ -422,5 +422,37 @@
       "id": 8,
       "userId": 1
     }
+  ],
+  "categories": [
+    {
+      "label": "React",
+      "value": "React",
+      "id": 1
+    },
+    {
+      "label": "Javascript",
+      "value": "Javascript",
+      "id": 2
+    },
+    {
+      "label": "HTML",
+      "value": "HTML",
+      "id": 3
+    },
+    {
+      "label": "Figma",
+      "value": "Figma",
+      "id": 4
+    },
+    {
+      "label": "Typescript",
+      "value": "Typescript",
+      "id": 5
+    },
+    {
+      "label": "NodeJs",
+      "value": "NodeJs",
+      "id": 6
+    }
   ]
 }
