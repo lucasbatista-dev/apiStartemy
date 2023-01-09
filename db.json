@@ -64,17 +64,23 @@
             {
               "title": "Apresentação do curso",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 1,
+              "isCompleted": false
             },
             {
               "title": "Introdução",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 2,
+              "isCompleted": false
             },
             {
               "title": "O que é JavaScript",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 3,
+              "isCompleted": false
             }
           ],
           "id": 1,
@@ -92,17 +98,23 @@
             {
               "title": "O que é React?",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 1,
+              "isCompleted": false
             },
             {
               "title": "O que é Node.js?",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 2,
+              "isCompleted": false
             },
             {
               "title": "O que é npm?",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 3,
+              "isCompleted": false
             }
           ],
           "id": 2,
@@ -122,17 +134,23 @@
             {
               "title": "Aula 1 - Introdução",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 1,
+              "isCompleted": false
             },
             {
               "title": "Como baixar os recursos do Github",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 2,
+              "isCompleted": false
             },
             {
               "title": "Estrutura de um site",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 3,
+              "isCompleted": false
             }
           ],
           "id": 4,
@@ -150,17 +168,23 @@
             {
               "title": "O que é HTML",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 1,
+              "isCompleted": false
             },
             {
               "title": "Editores de texto",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 2,
+              "isCompleted": false
             },
             {
               "title": "Estrutura de um arquivo HTML",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 3,
+              "isCompleted": false
             }
           ],
           "id": 5,
@@ -178,17 +202,23 @@
             {
               "title": "Instalando NodeJs, VSCode e Chrome no Windows",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 1,
+              "isCompleted": false
             },
             {
               "title": "Console.log - A primeira coisa que você vai ver em JS",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 2,
+              "isCompleted": false
             },
             {
               "title": "Comentários de código",
               "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "id": 3,
+              "isCompleted": false
             }
           ],
           "id": 6,
@@ -210,17 +240,23 @@
         {
           "title": "Apresentação do curso",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 1,
+          "isCompleted": false
         },
         {
           "title": "Introdução",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 2,
+          "isCompleted": false
         },
         {
           "title": "O que é JavaScript",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 3,
+          "isCompleted": false
         }
       ],
       "id": 1,
@@ -238,17 +274,23 @@
         {
           "title": "O que é React?",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 1,
+          "isCompleted": false
         },
         {
           "title": "O que é Node.js?",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 2,
+          "isCompleted": false
         },
         {
           "title": "O que é npm?",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 3,
+          "isCompleted": false
         }
       ],
       "id": 2,
@@ -266,17 +308,23 @@
         {
           "title": "Bem-vindo ao curso e para quem este curso é dedicado",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 1,
+          "isCompleted": false
         },
         {
           "title": "O que você precisa saber antes de iniciar o curso",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 2,
+          "isCompleted": false
         },
         {
           "title": "Qual a função das tecnologias HTML, CSS e JavaScript nas páginas web ",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 3,
+          "isCompleted": false
         }
       ],
       "id": 3,
@@ -294,17 +342,23 @@
         {
           "title": "Aula 1 - Introdução",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 1,
+          "isCompleted": false
         },
         {
           "title": "Como baixar os recursos do Github",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 2,
+          "isCompleted": false
         },
         {
           "title": "Estrutura de um site",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 3,
+          "isCompleted": false
         }
       ],
       "id": 4,
@@ -322,17 +376,23 @@
         {
           "title": "O que é HTML",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 1,
+          "isCompleted": false
         },
         {
           "title": "Editores de texto",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 2,
+          "isCompleted": false
         },
         {
           "title": "Estrutura de um arquivo HTML",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 3,
+          "isCompleted": false
         }
       ],
       "id": 5,
@@ -350,17 +410,23 @@
         {
           "title": "Instalando NodeJs, VSCode e Chrome no Windows",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 1,
+          "isCompleted": false
         },
         {
           "title": "Console.log - A primeira coisa que você vai ver em JS",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 2,
+          "isCompleted": false
         },
         {
           "title": "Comentários de código",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 3,
+          "isCompleted": false
         }
       ],
       "id": 6,
@@ -378,17 +444,23 @@
         {
           "title": "Introdução do Curso",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 1,
+          "isCompleted": false
         },
         {
           "title": "Mensagem do Maximilian Schwarzmuller",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 2,
+          "isCompleted": false
         },
         {
           "title": "O que é Typescript",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 3,
+          "isCompleted": false
         }
       ],
       "id": 7,
@@ -406,17 +478,23 @@
         {
           "title": "Sobre o figma",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 1,
+          "isCompleted": false
         },
         {
           "title": "Área de criação / Rascunhos",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 2,
+          "isCompleted": false
         },
         {
           "title": "Menu Figma",
           "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ"
+          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "id": 3,
+          "isCompleted": false
         }
       ],
       "id": 8,
