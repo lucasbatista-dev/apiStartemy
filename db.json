@@ -18,7 +18,7 @@
       "completedClasses": [
         {
           "courseId": 0,
-          "completedClassId": []
+          "classId": 0
         }
       ],
 
@@ -69,7 +69,7 @@
       "completedClasses": [
         {
           "courseId": 0,
-          "completedClassId": []
+          "classId": 0
         }
       ],
       "favoriteCourses": [
