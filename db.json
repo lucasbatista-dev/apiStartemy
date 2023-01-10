@@ -62,23 +62,23 @@
           "ranking": 4.7,
           "classes": [
             {
-              "title": "Apresentação do curso",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "Objetos e Arrays parte 1 | Curso Completo JavaScript #04",
+              "classTime": "06:38",
+              "link": "https://www.youtube.com/watch?v=yAWJfezUCUs",
               "id": 1,
               "isCompleted": false
             },
             {
-              "title": "Introdução",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "Objetos e Arrays parte 2 | Curso Completo JavaScript #05",
+              "classTime": "5:57",
+              "link": "https://www.youtube.com/watch?v=x1lqvmIVX98",
               "id": 2,
               "isCompleted": false
             },
             {
-              "title": "O que é JavaScript",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "Variáveis em Javacript Parte 2 | Curso Completo JavaScript ",
+              "classTime": "09:08",
+              "link": "https://www.youtube.com/watch?v=SDhPobcedl4",
               "id": 3,
               "isCompleted": false
             }
@@ -96,23 +96,23 @@
           "ranking": 4.9,
           "classes": [
             {
-              "title": "O que é React?",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
+              "classTime": "41:16",
+              "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
               "id": 1,
               "isCompleted": false
             },
             {
-              "title": "O que é Node.js?",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "Scroll Infinito | React + Intersection Observer",
+              "classTime": "32:23",
+              "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
               "id": 2,
               "isCompleted": false
             },
             {
-              "title": "O que é npm?",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
+              "classTime": "13:39",
+              "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
               "id": 3,
               "isCompleted": false
             }
@@ -132,23 +132,23 @@
           "ranking": 4.9,
           "classes": [
             {
-              "title": "Aula 1 - Introdução",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
+              "classTime": "41:16",
+              "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
               "id": 1,
               "isCompleted": false
             },
             {
-              "title": "Como baixar os recursos do Github",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "Scroll Infinito | React + Intersection Observer",
+              "classTime": "32:23",
+              "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
               "id": 2,
               "isCompleted": false
             },
             {
-              "title": "Estrutura de um site",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
+              "classTime": "13:39",
+              "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
               "id": 3,
               "isCompleted": false
             }
@@ -166,23 +166,23 @@
           "ranking": 4.2,
           "classes": [
             {
-              "title": "O que é HTML",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
+              "classTime": "41:16",
+              "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
               "id": 1,
               "isCompleted": false
             },
             {
-              "title": "Editores de texto",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "Scroll Infinito | React + Intersection Observer",
+              "classTime": "32:23",
+              "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
               "id": 2,
               "isCompleted": false
             },
             {
-              "title": "Estrutura de um arquivo HTML",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
+              "classTime": "13:39",
+              "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
               "id": 3,
               "isCompleted": false
             }
@@ -200,23 +200,23 @@
           "ranking": 4.8,
           "classes": [
             {
-              "title": "Instalando NodeJs, VSCode e Chrome no Windows",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "Introduzindo function, variáveis e palavras reservadas | Curso Completo JavaScript #01",
+              "classTime": "08:16",
+              "link": "https://www.youtube.com/watch?v=eOjQx-GfWaA",
               "id": 1,
               "isCompleted": false
             },
             {
-              "title": "Console.log - A primeira coisa que você vai ver em JS",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "Entendendo de uma vez o que é uma Middleware | Mini Curso Node #05 - Middleware",
+              "classTime": "13:53",
+              "link": "https://www.youtube.com/watch?v=m43FLDDQ-TE",
               "id": 2,
               "isCompleted": false
             },
             {
-              "title": "Comentários de código",
-              "classTime": "1:00:20",
-              "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+              "title": "Como evitar uma SQL Injection? | Segurança #01",
+              "classTime": "12:14",
+              "link": "https://www.youtube.com/watch?v=j46Zq9RLA_M",
               "id": 3,
               "isCompleted": false
             }
@@ -238,23 +238,23 @@
       "ranking": 4.7,
       "classes": [
         {
-          "title": "Apresentação do curso",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Iniciando nosso servidor nodeJs com express! | Mini Curso Node #02 - Express",
+          "classTime": "06:46",
+          "link": "https://www.youtube.com/watch?v=mKIZDc-r5uk",
           "id": 1,
           "isCompleted": false
         },
         {
-          "title": "Introdução",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Testando nossa servidor nodeJs com Insomnia | Mini Curso Node #03 - Insomnia",
+          "classTime": "06:44",
+          "link": "https://www.youtube.com/watch?v=I8aRBWBGNfk",
           "id": 2,
           "isCompleted": false
         },
         {
-          "title": "O que é JavaScript",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Aplicando REST em nossa API | Mini Curso Node #04 - Introduzindo REST",
+          "classTime": "21:22",
+          "link": "https://www.youtube.com/watch?v=F8zC0hQBZ80",
           "id": 3,
           "isCompleted": false
         }
@@ -272,23 +272,23 @@
       "ranking": 4.9,
       "classes": [
         {
-          "title": "O que é React?",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
+          "classTime": "41:16",
+          "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
           "id": 1,
           "isCompleted": false
         },
         {
-          "title": "O que é Node.js?",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Scroll Infinito | React + Intersection Observer",
+          "classTime": "32:23",
+          "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
           "id": 2,
           "isCompleted": false
         },
         {
-          "title": "O que é npm?",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
+          "classTime": "13:39",
+          "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
           "id": 3,
           "isCompleted": false
         }
@@ -306,23 +306,23 @@
       "ranking": 4.7,
       "classes": [
         {
-          "title": "Bem-vindo ao curso e para quem este curso é dedicado",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
+          "classTime": "41:16",
+          "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
           "id": 1,
           "isCompleted": false
         },
         {
-          "title": "O que você precisa saber antes de iniciar o curso",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Scroll Infinito | React + Intersection Observer",
+          "classTime": "32:23",
+          "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
           "id": 2,
           "isCompleted": false
         },
         {
-          "title": "Qual a função das tecnologias HTML, CSS e JavaScript nas páginas web ",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
+          "classTime": "13:39",
+          "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
           "id": 3,
           "isCompleted": false
         }
@@ -340,23 +340,23 @@
       "ranking": 4.9,
       "classes": [
         {
-          "title": "Aula 1 - Introdução",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
+          "classTime": "41:16",
+          "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
           "id": 1,
           "isCompleted": false
         },
         {
-          "title": "Como baixar os recursos do Github",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Scroll Infinito | React + Intersection Observer",
+          "classTime": "32:23",
+          "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
           "id": 2,
           "isCompleted": false
         },
         {
-          "title": "Estrutura de um site",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
+          "classTime": "13:39",
+          "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
           "id": 3,
           "isCompleted": false
         }
@@ -374,23 +374,23 @@
       "ranking": 4.2,
       "classes": [
         {
-          "title": "O que é HTML",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
+          "classTime": "41:16",
+          "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
           "id": 1,
           "isCompleted": false
         },
         {
-          "title": "Editores de texto",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Scroll Infinito | React + Intersection Observer",
+          "classTime": "32:23",
+          "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
           "id": 2,
           "isCompleted": false
         },
         {
-          "title": "Estrutura de um arquivo HTML",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
+          "classTime": "13:39",
+          "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
           "id": 3,
           "isCompleted": false
         }
@@ -408,23 +408,23 @@
       "ranking": 4.8,
       "classes": [
         {
-          "title": "Instalando NodeJs, VSCode e Chrome no Windows",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
+          "classTime": "41:16",
+          "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
           "id": 1,
           "isCompleted": false
         },
         {
-          "title": "Console.log - A primeira coisa que você vai ver em JS",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Scroll Infinito | React + Intersection Observer",
+          "classTime": "32:23",
+          "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
           "id": 2,
           "isCompleted": false
         },
         {
-          "title": "Comentários de código",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
+          "classTime": "13:39",
+          "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
           "id": 3,
           "isCompleted": false
         }
@@ -442,23 +442,23 @@
       "ranking": 4.7,
       "classes": [
         {
-          "title": "Introdução do Curso",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
+          "classTime": "41:16",
+          "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
           "id": 1,
           "isCompleted": false
         },
         {
-          "title": "Mensagem do Maximilian Schwarzmuller",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Scroll Infinito | React + Intersection Observer",
+          "classTime": "32:23",
+          "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
           "id": 2,
           "isCompleted": false
         },
         {
-          "title": "O que é Typescript",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
+          "classTime": "13:39",
+          "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
           "id": 3,
           "isCompleted": false
         }
@@ -476,23 +476,23 @@
       "ranking": 4.7,
       "classes": [
         {
-          "title": "Sobre o figma",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
+          "classTime": "41:16",
+          "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
           "id": 1,
           "isCompleted": false
         },
         {
-          "title": "Área de criação / Rascunhos",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "Scroll Infinito | React + Intersection Observer",
+          "classTime": "32:23",
+          "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
           "id": 2,
           "isCompleted": false
         },
         {
-          "title": "Menu Figma",
-          "classTime": "1:00:20",
-          "link": "https://www.youtube.com/watch?v=f02mOEt11OQ",
+          "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
+          "classTime": "13:39",
+          "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
           "id": 3,
           "isCompleted": false
         }
