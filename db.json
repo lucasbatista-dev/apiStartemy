@@ -247,22 +247,19 @@
           "title": "Iniciando nosso servidor nodeJs com express! | Mini Curso Node #02 - Express",
           "classTime": "06:46",
           "link": "https://www.youtube.com/watch?v=mKIZDc-r5uk",
-          "id": 1,
-          "isCompleted": false
+          "id": 1
         },
         {
           "title": "Testando nossa servidor nodeJs com Insomnia | Mini Curso Node #03 - Insomnia",
           "classTime": "06:44",
           "link": "https://www.youtube.com/watch?v=I8aRBWBGNfk",
-          "id": 2,
-          "isCompleted": false
+          "id": 2
         },
         {
           "title": "Aplicando REST em nossa API | Mini Curso Node #04 - Introduzindo REST",
           "classTime": "21:22",
           "link": "https://www.youtube.com/watch?v=F8zC0hQBZ80",
-          "id": 3,
-          "isCompleted": false
+          "id": 3
         }
       ],
       "id": 1,
@@ -281,22 +278,19 @@
           "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
           "classTime": "41:16",
           "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
-          "id": 1,
-          "isCompleted": false
+          "id": 1
         },
         {
           "title": "Scroll Infinito | React + Intersection Observer",
           "classTime": "32:23",
           "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
-          "id": 2,
-          "isCompleted": false
+          "id": 2
         },
         {
           "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
           "classTime": "13:39",
           "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
-          "id": 3,
-          "isCompleted": false
+          "id": 3
         }
       ],
       "id": 2,
@@ -315,22 +309,19 @@
           "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
           "classTime": "41:16",
           "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
-          "id": 1,
-          "isCompleted": false
+          "id": 1
         },
         {
           "title": "Scroll Infinito | React + Intersection Observer",
           "classTime": "32:23",
           "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
-          "id": 2,
-          "isCompleted": false
+          "id": 2
         },
         {
           "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
           "classTime": "13:39",
           "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
-          "id": 3,
-          "isCompleted": false
+          "id": 3
         }
       ],
       "id": 3,
@@ -349,22 +340,19 @@
           "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
           "classTime": "41:16",
           "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
-          "id": 1,
-          "isCompleted": false
+          "id": 1
         },
         {
           "title": "Scroll Infinito | React + Intersection Observer",
           "classTime": "32:23",
           "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
-          "id": 2,
-          "isCompleted": false
+          "id": 2
         },
         {
           "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
           "classTime": "13:39",
           "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
-          "id": 3,
-          "isCompleted": false
+          "id": 3
         }
       ],
       "id": 4,
@@ -383,22 +371,19 @@
           "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
           "classTime": "41:16",
           "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
-          "id": 1,
-          "isCompleted": false
+          "id": 1
         },
         {
           "title": "Scroll Infinito | React + Intersection Observer",
           "classTime": "32:23",
           "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
-          "id": 2,
-          "isCompleted": false
+          "id": 2
         },
         {
           "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
           "classTime": "13:39",
           "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
-          "id": 3,
-          "isCompleted": false
+          "id": 3
         }
       ],
       "id": 5,
@@ -417,22 +402,19 @@
           "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
           "classTime": "41:16",
           "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
-          "id": 1,
-          "isCompleted": false
+          "id": 1
         },
         {
           "title": "Scroll Infinito | React + Intersection Observer",
           "classTime": "32:23",
           "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
-          "id": 2,
-          "isCompleted": false
+          "id": 2
         },
         {
           "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
           "classTime": "13:39",
           "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
-          "id": 3,
-          "isCompleted": false
+          "id": 3
         }
       ],
       "id": 6,
@@ -451,22 +433,19 @@
           "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
           "classTime": "41:16",
           "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
-          "id": 1,
-          "isCompleted": false
+          "id": 1
         },
         {
           "title": "Scroll Infinito | React + Intersection Observer",
           "classTime": "32:23",
           "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
-          "id": 2,
-          "isCompleted": false
+          "id": 2
         },
         {
           "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
           "classTime": "13:39",
           "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
-          "id": 3,
-          "isCompleted": false
+          "id": 3
         }
       ],
       "id": 7,
@@ -485,22 +464,19 @@
           "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
           "classTime": "41:16",
           "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
-          "id": 1,
-          "isCompleted": false
+          "id": 1
         },
         {
           "title": "Scroll Infinito | React + Intersection Observer",
           "classTime": "32:23",
           "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
-          "id": 2,
-          "isCompleted": false
+          "id": 2
         },
         {
           "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
           "classTime": "13:39",
           "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
-          "id": 3,
-          "isCompleted": false
+          "id": 3
         }
       ],
       "id": 8,
