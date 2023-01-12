@@ -359,31 +359,43 @@
       "userId": 1
     },
     {
-      "title": "Curso de JavaScript e TypeScript do básico ao avançado",
-      "description": "Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns",
-      "author": "Luiz Otávio Miranda",
-      "category": "Typescript",
-      "image": "https://img.freepik.com/fotos-gratis/programador-profissional-trabalhando-ate-tarde-no-escritorio-escuro_1098-18705.jpg?w=740&t=st=1673495180~exp=1673495780~hmac=bc30a7a1e6f1b04e3223314803ccf9bf0255d9494779cbb5e946e84be49067dd",
-      "price": 27.9,
+      "title": "Curso completo JavaScript - Tsunode",
+      "description": "Se você chegou até aqui, provavelmente quer aprender programação! E o javascript é uma ótima linguagem para quem quer começar nesse mundo, pois ele está em todos lugares: front end, back-end e mobile",
+      "author": "Gabriel Tsunoda",
+      "category": "Javascript",
+      "image": "https://i.ytimg.com/vi/eOjQx-GfWaA/mqdefault.jpg",
+      "price": 32.9,
       "ranking": 4.8,
       "classes": [
         {
-          "title": "Reprovaram minha PR no React-Router | Typescript Avançado",
-          "classTime": "41:16",
-          "link": "https://www.youtube.com/watch?v=brjwSMvwINw",
+          "title": "Introduzindo function, variáveis e palavras reservadas | Curso Completo JavaScript #01",
+          "classTime": "08:16",
+          "link": "https://www.youtube.com/watch?v=eOjQx-GfWaA&t=19s",
           "id": 1
         },
         {
-          "title": "Scroll Infinito | React + Intersection Observer",
-          "classTime": "32:23",
-          "link": "https://www.youtube.com/watch?v=JMK_uwrBW2g",
+          "title": "Variáveis em Javacript Parte 1 | Curso Completo JavaScript #02",
+          "classTime": "03:45",
+          "link": "https://www.youtube.com/watch?v=SW5sSCM4QjI",
           "id": 2
         },
         {
-          "title": "O Strict mode mudou na versão 18 do React e você não está codando errado!!",
-          "classTime": "13:39",
-          "link": "https://www.youtube.com/watch?v=lkHJ_HY4RY8",
+          "title": "Variáveis em Javacript Parte 2 | Curso Completo JavaScript #03",
+          "classTime": "09:08",
+          "link": "https://www.youtube.com/watch?v=SDhPobcedl4&t=2s",
           "id": 3
+        },
+        {
+          "title": "Objetos e Arrays parte 1 | Curso Completo JavaScript #04",
+          "classTime": "06:38",
+          "link": "https://www.youtube.com/watch?v=yAWJfezUCUs",
+          "id": 4
+        },
+        {
+          "title": "Objetos e Arrays parte 2 | Curso Completo JavaScript #05",
+          "classTime": "05:57",
+          "link": "https://www.youtube.com/watch?v=x1lqvmIVX98&t=4s",
+          "id": 5
         }
       ],
       "id": 6,
