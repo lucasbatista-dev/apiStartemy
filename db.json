@@ -204,7 +204,7 @@
           "description": "Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns",
           "author": "Luiz Otávio Miranda",
           "category": "Typescript",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo13fGaB9gewpzExaI9fd8IgyK7LOTojVsdA&usqp=CAU",
+          "image": "https://img.freepik.com/fotos-gratis/programador-profissional-trabalhando-ate-tarde-no-escritorio-escuro_1098-18705.jpg?w=740&t=st=1673495180~exp=1673495780~hmac=bc30a7a1e6f1b04e3223314803ccf9bf0255d9494779cbb5e946e84be49067dd",
           "price": 27.9,
           "ranking": 4.8,
           "classes": [
@@ -228,6 +228,55 @@
             }
           ],
           "id": 6,
+          "userId": 1
+        },
+        {
+          "title": "Curso de HTML e CSS - Alex Ensina ",
+          "description": "Um curso voltado tanto a completos iniciantes na programação, quanto a pessoas que desejam se desenvolver ainda mais em HTML e CSS.",
+          "author": "Alex Conder",
+          "category": "HTML",
+          "image": "https://i.ytimg.com/vi/KudMYO8uriY/mqdefault.jpg",
+          "price": 32.9,
+          "ranking": 5.0,
+          "classes": [
+            {
+              "title": "Curso de HTML e CSS - Apresentação - 1.0",
+              "classTime": "01:48",
+              "link": "https://www.youtube.com/watch?v=KudMYO8uriY&t=4s",
+              "id": 1
+            },
+            {
+              "title": "Curso de HTML e CSS - Configurando o ambiente - 1.1",
+              "classTime": "05:25",
+              "link": "https://www.youtube.com/watch?v=hWI6_lCGfzU",
+              "id": 2
+            },
+            {
+              "title": "Curso de HTML e CSS - Meu segundo Commit - 1.2",
+              "classTime": "01:58",
+              "link": "https://www.youtube.com/watch?v=JGKrB-somb0",
+              "id": 3
+            },
+            {
+              "title": "Curso de HTML e CSS - HTML - O que é HTML - 2.0",
+              "classTime": "02:46",
+              "link": "https://www.youtube.com/watch?v=HEVxwKuSi30",
+              "id": 4
+            },
+            {
+              "title": "Curso de HTML e CSS - HTML - Minhas primeiras tags - 2.1",
+              "classTime": "05:10",
+              "link": "https://www.youtube.com/watch?v=ecvY-W-V7qE",
+              "id": 5
+            },
+            {
+              "title": "Curso de HTML e CSS - HTML - Tags de imagem, lista e mais - 2.2",
+              "classTime": "10:38",
+              "link": "https://www.youtube.com/watch?v=JGKrB-somb0",
+              "id": 6
+            }
+          ],
+          "id": 7,
           "userId": 1
         }
       ]
